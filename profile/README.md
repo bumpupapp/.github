@@ -5,6 +5,7 @@
 [![bumpup](https://img.shields.io/badge/%F0%9F%93%A6-bumpup-informational)](https:/github.com/danielr1996/bumpup)
 [![License: ISC](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![deno](https://img.shields.io/badge/deno-v1.26-green.svg?style=round-square&logo=deno)](https:/github.com/danielr1996/bumpup)
+[![Build & Release](https://github.com/bumpupapp/bumpup/actions/workflows/build.yaml/badge.svg)](https://github.com/bumpupapp/bumpup/actions/workflows/build.yaml)
 
 [//]: # ([![Maintainability]&#40;https://api.codeclimate.com/v1/badges/fd8a4816eab9e39b70cf/maintainability&#41;]&#40;https://codeclimate.com/github/bumpupapp/bumpup/maintainability&#41;)
 [//]: # ([![Test Coverage]&#40;https://api.codeclimate.com/v1/badges/fd8a4816eab9e39b70cf/test_coverage&#41;]&#40;https://codeclimate.com/github/bumpupapp/bumpup/test_coverage&#41;)
